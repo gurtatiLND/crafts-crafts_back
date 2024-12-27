@@ -96,7 +96,7 @@ The routes folder defines the endpoints (API routes) of the application. These r
 
 ## How to Run the Project
 
-1. Clone the repository: `git clone https://github.com/fac30/PRO04_Back_Jason_Tanya_Riley.git`
+1. Clone the repository: `git clone https://github.com/gurtatiLND/crafts-crafts_back.git`
 2. Navigate to the project directory: `cd PRO04_Back_Jason_Tanya_Riley`
 3. Install dependencies: `npm install`
 4. Database setup:
